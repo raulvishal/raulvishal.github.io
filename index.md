@@ -6,4 +6,4 @@
 ### Header 3
 
 
-[LinkedIn](www.linkedin.com/in/vishal-raul)
+[LinkedIn](https://www.linkedin.com/in/vishal-raul)
